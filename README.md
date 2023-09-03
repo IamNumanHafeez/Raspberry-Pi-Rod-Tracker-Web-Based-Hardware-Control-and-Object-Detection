@@ -10,10 +10,10 @@ Raspberry Pi Control: The Raspberry Pi will serve as the central controller for 
 
 Web-Based GUI: We'll design a user-friendly web page interface as the primary control panel. It enables users to manipulate the Raspberry Pi's GPIO pins effortlessly.
 
-Live Video Streaming: The webpage interface will also provide a live video stream from the Pi camera. This stream will display the movement of objects, detecting their colour and position.
+Live Video Streaming: The webpage interface will also provide a live video stream from the Pi camera. This stream will display the movement of objects, detecting their color and position.
 
 Stepper Motor Integration: An essential element of the setup, the stepper motor can be conveniently activated or deactivated through buttons on the webpage.
-# Project content
+# Project Content
 
 This repository contains the base folders to conduct each task, as follows:
 
