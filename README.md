@@ -1,4 +1,4 @@
-# Raspberry-Pi-Rod-Tracker-Web-Based-Hardware-Control-and-Object-Detection
+#Raspberry Pi Rod Tracker: Web-Based Hardware Control and Object Detection
 
 ## Project Overview
 This project revolves around the integration of diverse hardware components with a Raspberry Pi, including a Pi camera, a stepper motor, and an ultrasonic distance-measuring sensor. The primary objective is to create an intuitive graphical user interface (GUI) in the form of a webpage for controlling the GPIO pins of the Raspberry Pi.
